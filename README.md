@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Aspiring Applied AI Engineer with practical experience building and evaluating LLM-powered agents using LangGraph, LangChain, Claude, MCP, and multi-agent orchestration patterns. Trained in creating AI workflows with tool use, observability, guardrails, and human-in-the-loop escalation for reliable real-world deployment
+Applied AI Engineer with practical experience building and evaluating LLM-powered agents using LangGraph, LangChain, Claude, MCP, and multi-agent orchestration patterns. Trained in creating AI workflows with tool use, observability, guardrails, and human-in-the-loop escalation for reliable real-world deployment
 
 ## Interests
 - Data Engineering
